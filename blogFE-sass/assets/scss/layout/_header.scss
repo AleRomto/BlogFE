@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20px;
+  }
+  
+  .logo {
+    margin: 30px;
+    margin-left: 80px;
+  }
+  
+  .logo_box {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo_box_img {
+    width: 30px;
+    border-radius: 50px;
+  }
+  
+  .logo_box_big {
+    width: 60px;
+    height: auto;
+    border-radius: 20px;
+  }
